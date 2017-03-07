@@ -3,3 +3,7 @@
 .main-container {
 	color: grey;
 	font-family: 'Avenir', arial;
+	
+img {
+height: 350px; width: 550px;
+}
