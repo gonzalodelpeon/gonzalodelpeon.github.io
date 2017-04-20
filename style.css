@@ -4,6 +4,10 @@
 	color: grey;
 	font-family: 'Avenir', arial;
 	
+img {
+	height: 50%; 
+	width: 50%;
+}
 	
 @media screen and (min-device-height:320px) and (max-device-width:420px) {
 
