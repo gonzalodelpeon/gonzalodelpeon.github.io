@@ -4,6 +4,5 @@ $(document).ready(function() {
 
 	$("#photo").fadeIn("slow", function() {
 		
-	}
-	  );
+	});
 });
